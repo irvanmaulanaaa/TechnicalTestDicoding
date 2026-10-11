@@ -205,7 +205,7 @@ Cakupan skenario E2E (`e2e/vacancies.spec.ts`):
 ```json
 {
   "title": "Android Native Developer",
-  "position": "Android Developer",
+  "division": "Android Developer",
   "job_type": "Full-Time",
   "candidates_needed": 2,
   "active_until": "2026-12-31",
